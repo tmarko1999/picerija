@@ -1,0 +1,47 @@
+body{
+  background-color: #404040;
+  margin: 30px;
+  font-family: cursive;
+}
+header{
+  text-align: center;
+  background-color: #E9468D;
+  color: black;
+  font-family: cursive;
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+}
+section.special-offer{
+  text-align: center;
+}
+table.spec-offer{
+  margin-left: 27%;
+  width: 50%;
+}
+.inline{
+  display: inline;
+}
+.menu{
+  float: left;
+  margin: 13px;
+  margin-left: 60px;
+  border: solid black 1px;
+  max-width: 370px;
+}
+.payment{
+  font-size: 20px;
+}
+section.payment{
+  background-color: #E9468D;
+}
+section.aboutus{
+  background-color: #2231B6;
+}
+section{
+  color: yellow;
+}
+body{
+  color:blues
+}
